@@ -124,6 +124,8 @@
     <Content Include="heihei.png" />
     <Content Include="hello.html" />
     <Content Include="Packages\Readme.txt" />
+    <Resource Include="Packages\001.png" />
+    <Resource Include="Packages\002.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
