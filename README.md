@@ -8,9 +8,9 @@
 
 http://localhost:8088/ 
 
-![001.png](~/Packages/001.png)
+![001.png](NetPackagesServer/001.png)
 
-![001.png](~/Packages/001.png)
+![001.png](NetPackagesServer/002.png)
 
 ## 修改配置
 
